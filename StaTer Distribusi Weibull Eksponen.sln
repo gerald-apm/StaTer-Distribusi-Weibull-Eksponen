@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StaTer Distribusi Weibull Eksponen", "StaTer Distribusi Weibull Eksponen\StaTer Distribusi Weibull Eksponen.csproj", "{BB2034C9-3465-47B2-9D9A-53447317AA5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distribusi Eksponensial", "Distribusi Eksponensial\Distribusi Eksponensial.csproj", "{BD60281C-4F1A-405C-A7C2-D89EF974117A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB2034C9-3465-47B2-9D9A-53447317AA5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB2034C9-3465-47B2-9D9A-53447317AA5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB2034C9-3465-47B2-9D9A-53447317AA5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB2034C9-3465-47B2-9D9A-53447317AA5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD60281C-4F1A-405C-A7C2-D89EF974117A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD60281C-4F1A-405C-A7C2-D89EF974117A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD60281C-4F1A-405C-A7C2-D89EF974117A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD60281C-4F1A-405C-A7C2-D89EF974117A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96C28D48-2264-4E07-AF4F-EF9EC7B8C59A}
+	EndGlobalSection
+EndGlobal
